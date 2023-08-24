@@ -29,9 +29,3 @@ adicionar ao programa outro tipo de conversões como temperatura por exemplo.
 - IDE: <a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a>
 - Linguagem: Java 19
 - Javax.swing: JOptionPane;
-
-
-[<img align="left" height="50" margin="10" src="https://i.imgur.com/RYYUpCK.png">](https://www.oracle.com/br/education/oracle-next-education/)
-Aplicação Desktop de **Conversor de Unidades** desenvolvido como Challenge, durante a formação Backend Java, do
-programa <a href="https://www.oracle.com/br/education/oracle-next-education/">ONE (Oracle Next Education)</a> através da
-plataforma de ensino <a href="https://www.alura.com.br/">Alura</a>.
