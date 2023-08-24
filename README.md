@@ -8,7 +8,7 @@
 
 ## Proposta
 
-Neste desafio foi proposto para a turma do programa ONE a criação de um conversor de moeda utilizando a linguagem Java. As
+Neste desafio foi proposto para a turma do programa ONE a criação de um conversor de moedas utilizando a linguagem Java. As
 características solicitadas são as seguintes:
 
 O conversor de moeda deverá:
