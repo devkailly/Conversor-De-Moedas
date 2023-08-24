@@ -1,16 +1,16 @@
 public class ValoresMoeda {
 
-    public static final double realParaDolar = 0.19;
+    public static final double realParaDolar = 0.20;
     public static final double realParaEuro = 0.18;
     public static final double realParaLibraEsterlina = 0.16;
-    public static final double realParaPesoArgentino = 38.22;
-    public static final double realParaPesoChileno = 156.7;
+    public static final double realParaPesoArgentino = 71.76;
+    public static final double realParaPesoChileno = 173.6;
 
-    public static final double dolarParaReal = 5.14;
-    public static final double euroParaReal = 5.51;
-    public static final double libraEsterlinaParaReal = 6.21;
-    public static final double pesoArgentinoParaReal = 0.027;
-    public static final double pesoChilenoParaReal = 0.0063;
+    public static final double dolarParaReal = 4.88;
+    public static final double euroParaReal = 5.28;
+    public static final double libraEsterlinaParaReal = 6.15;
+    public static final double pesoArgentinoParaReal = 0.014;
+    public static final double pesoChilenoParaReal = 0.0058;
 
     public double converterRealEmDolar(double valor) {
 
